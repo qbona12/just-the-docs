@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Unresponsive SME article
 
 
